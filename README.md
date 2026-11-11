@@ -6,11 +6,12 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=norachcharon&color=6e40c9&style=for-the-badge&label=VIEWS)](https://github.com/norachcharon)
 [![Org](https://img.shields.io/badge/org-UnseenConnect-0ea5e9?style=for-the-badge&logo=github)](https://github.com/UnseenConnect)
-[![Location](https://img.shields.io/badge/фокус-Xray%20VPN-9F7AEA?style=for-the-badge)](https://github.com/UnseenConnect)
+[![VPN](https://img.shields.io/badge/фокус-Xray%20VPN-9F7AEA?style=for-the-badge)](https://github.com/UnseenConnect)
+[![Bedrock](https://img.shields.io/badge/Bedrock-PMMP%205.x-f78166?style=for-the-badge)](https://github.com/norachcharon)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=600&color=58A6FF&center=true&vCenter=true&width=820&lines=Norach+Charon;клиенты+UnseenConnect+на+Xray;подписки+%C2%B7+TUN+%C2%B7+Reality+%C2%B7+VMess;бэкенд+и+автоматизация+на+Linux" alt="Intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=600&color=58A6FF&center=true&vCenter=true&width=860&lines=Norach+Charon;UnseenConnect+%C2%B7+Xray+%C2%B7+Android%2FWindows%2FLinux;Minecraft+Bedrock+%C2%B7+PMMP+5;плагины+и+серверные+ядра+на+PHP" alt="Intro" />
 
 </div>
 
@@ -20,7 +21,9 @@
 
 Разработчик **Norach Charon**. Основной публичный фокус — экосистема **[UnseenConnect](https://github.com/UnseenConnect)**: нативные VPN-клиенты под **Android**, **Windows** и **Linux** на ядре **Xray**.
 
-Параллельно пишу серверную логику и утилиты для подписок, панелей и эксплуатации нод. В GitHub открыто лежат только репозитории организации UnseenConnect; остальная работа — в приватных проектах.
+Параллельно пишу серверную логику и утилиты для подписок, панелей и эксплуатации нод.
+
+Активно разрабатываю под **Minecraft: Bedrock** и **PocketMine-MP 5.x (PMMP5)**: игровые плагины, серверную логику и доработки **ядра** (протокол, производительность, игровые API). Эта часть в основном в приватных репозиториях; в открытом доступе сейчас — клиенты **UnseenConnect**.
 
 <img src="assets/pillars.png" alt="Направления" width="100%" />
 
@@ -48,6 +51,16 @@ bash-автоматизация, Debian/Ubuntu,<br/>
 </td>
 </tr>
 </table>
+
+## Minecraft Bedrock · PMMP 5
+
+| Направление | Что делаю |
+| --- | --- |
+| **Плагины** | Геймплей, мини-игры, экономика, UI/API плагинов под PMMP 5.x |
+| **Ядро** | Форки и патчи **PocketMine-MP**: Bedrock-протокол, стабильность, расширения под свои сервера |
+| **Стек** | **PHP**, события и API PMMP, профилирование, деплой `.phar` на Linux |
+
+> PMMP5 и плагины — в private; публично на профиле закреплены VPN-клиенты UnseenConnect.
 
 ## Публичные репозитории
 
@@ -79,7 +92,7 @@ bash-автоматизация, Debian/Ubuntu,<br/>
 
 **Языки и фреймворки**
 
-<img src="https://skillicons.dev/icons?i=php,symfony,python,js,ts,react,kotlin,androidstudio,docker&perline=9" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=php,symfony,python,js,ts,react,kotlin,androidstudio,docker,cs&perline=10" alt="Languages" />
 
 <br/>
 
