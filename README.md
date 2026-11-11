@@ -1,64 +1,107 @@
-<h1 align="center">Hi 👋, I'm Norach Charon</h1>
-<h3 align="center">📱 Mobile & Desktop Developer · Flutter · Python · Kotlin · PHP</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=norachcharon&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<img src="assets/hero.png" alt="Norach Charon" width="100%" />
 
----
+<br/>
 
-### 🧑‍💻 About me
+[![Profile views](https://komarev.com/ghpvc/?username=norachcharon&color=6e40c9&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/norachcharon)
+[![GitHub User](https://img.shields.io/badge/GitHub-norachcharon-181717?style=for-the-badge&logo=github)](https://github.com/norachcharon)
+[![Org rubyx-pm](https://img.shields.io/badge/rubyx--pm-PocketMine--MP-6e40c9?style=for-the-badge)](https://github.com/rubyx-pm)
+[![Org UnseenConnect](https://img.shields.io/badge/UnseenConnect-VPN_Client-0ea5e9?style=for-the-badge&logo=protonvpn)](https://github.com/UnseenConnect)
 
-- 📱 I build cross-platform client apps with **Flutter** — Android, Windows, macOS, Linux and iOS from one codebase
-- 🔐 Working on networking and privacy tools around the **Xray** core: clients, panel add-ons, server setup scripts
-- 🖥️ On the backend side: **Symfony / PHP**, **Python** bots and services, **PostgreSQL**, **Redis**, **Nginx** on Linux servers
-- 🎮 Also running a game server hosting platform — [mcbehost.ru](https://mcbehost.ru)
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=9F7AEA&center=true&vCenter=true&width=780&lines=Mobile+%26+Desktop+%C2%B7+Flutter+%C2%B7+Kotlin+%C2%B7+PHP;Privacy+%26+VPN+%C2%B7+Xray+%C2%B7+3x-ui+tooling;Symfony+%C2%B7+Python+bots+%C2%B7+Linux+ops;Bedrock+%C2%B7+PocketMine+%C2%B7+mcbehost.ru" alt="Typing intro" />
 
-### 🚀 Featured Projects
-
-| Project | Description |
-| --- | --- |
-| [**UnseenConnect**](https://github.com/norachcharon/unseenconnect) | Proxy client built on the Xray core: one-click subscription import, system proxy and TUN mode, server ping, auto-update. VLESS (Reality), VMess, Trojan |
-| ↳ [Android](https://github.com/norachcharon/unseenconnect-android) · [Desktop](https://github.com/norachcharon/unseenconnect-desktop) · [Linux](https://github.com/norachcharon/unseenconnect-linux) · [macOS](https://github.com/norachcharon/unseenconnect-macos) · [iOS](https://github.com/norachcharon/unseenconnect-ios) | Platform builds and releases |
-| [**3x-ui-hwid**](https://github.com/norachcharon/3x-ui-hwid) | Proxy layer for 3x-ui that limits client **devices** by Hardware ID, working together with the panel's IP limit |
-| [**harden-server**](https://github.com/norachcharon/harden-server) | One-command hardening script for Debian / Ubuntu servers; generated credentials are shown once and never stored |
-| [**bootstrap-xui**](https://github.com/norachcharon/bootstrap-xui) | Bootstrap script for setting up a 3x-ui server |
-
-<p align="center">
-  <a href="https://github.com/norachcharon/unseenconnect-android">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=norachcharon&repo=unseenconnect-android&theme=dark" alt="unseenconnect-android" />
-  </a>
-  <a href="https://github.com/norachcharon/3x-ui-hwid">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=norachcharon&repo=3x-ui-hwid&theme=dark" alt="3x-ui-hwid" />
-  </a>
-</p>
+</div>
 
 ---
 
-### 🛠️ Languages and Tools
+<img src="assets/pillars.png" alt="Focus areas" width="100%" />
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,python,php,symfony,js,ts,react,go,cs,unity&perline=13" alt="Languages" />
+## About
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│  Cross-platform clients (Flutter)                           │
+│  VPN stack: UnseenConnect, panels, bootstrap & hardening      │
+│  Backends: Symfony, Python, PostgreSQL, Redis, Docker       │
+│  Game hosting: mcbehost.ru · Bedrock / Rubyx PocketMine-MP    │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Currently into**
+
+- Flutter on **Android, iOS, Windows, macOS, Linux**
+- **Xray**-based clients & automation around **3x-ui**
+- **Symfony / PHP** services, Telegram bots, observability
+
+</td>
+<td width="50%" valign="top">
+
+**Links**
+
+- [mcbehost.ru](https://mcbehost.ru) — MCBE hosting
+- [rubyx-pm docs](https://rubyx-pm.github.io/website/docs/) — Bedrock core docs
+- [UnseenConnect](https://github.com/UnseenConnect) — org
+
+</td>
+</tr>
+</table>
+
+## Featured
+
+<div align="center">
+
+| | |
+|:---:|:---|
+| **UnseenConnect** | Xray client — subscriptions, TUN, Reality / VMess / Trojan |
+| **3x-ui-hwid** | HWID device limits on top of 3x-ui |
+| **bootstrap-xui** | One-shot 3x-ui server bootstrap |
+| **harden-server** | Debian/Ubuntu hardening (ephemeral credentials) |
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/UnseenConnect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=norachcharon&repo=unseenstats&theme=transparent&bg_color=0d1117&title_color=9F7AEA&icon_color=58A6FF&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="unseenstats" />
   </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,nginx,postgres,mysql,redis,docker,git,github&perline=11" alt="Tools" />
+  <a href="https://github.com/norachcharon/unseenvpnbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=norachcharon&repo=unseenvpnbot&theme=transparent&bg_color=0d1117&title_color=9F7AEA&icon_color=58A6FF&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="unseenvpnbot" />
   </a>
-</p>
+</div>
 
----
+## Stack
 
-### 📊 Stats
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=norachcharon&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=norachcharon&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Top languages" />
-</p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,python,php,symfony,js,ts,react,go,docker&perline=12" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,nginx,postgres,mysql,redis,git,github,unity&perline=11" alt="Tools" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=norachcharon&theme=dark&hide_border=true" alt="GitHub streak" />
-</p>
+</div>
+
+## GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=norachcharon&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&bg_color=0d1117&title_color=9F7AEA&icon_color=58A6FF&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norachcharon&layout=compact&langs_count=10&theme=transparent&bg_color=0d1117&title_color=9F7AEA&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="Top langs" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=norachcharon&theme=github-dark&hide_border=false&border_radius=12&background=0D1117&ring=9F7AEA&fire=58A6FF&currStreakLabel=9F7AEA" alt="Streak" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/norachcharon/norachcharon/main/dist/github-contribution-grid-snake-dark.svg" alt="Snake" />
+
+</div>
+
+<div align="center">
+  <br/>
+  <sub>Last refresh · profile README · <a href="https://github.com/norachcharon/norachcharon">norachcharon/norachcharon</a></sub>
+</div>
