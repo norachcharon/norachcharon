@@ -5,13 +5,14 @@
 <br/>
 
 [![Profile views](https://komarev.com/ghpvc/?username=norachcharon&color=6e40c9&style=for-the-badge&label=VIEWS)](https://github.com/norachcharon)
+[![Fullstack](https://img.shields.io/badge/роль-Fullstack-9F7AEA?style=for-the-badge&logo=graphql&logoColor=white)](https://github.com/norachcharon)
 [![Org](https://img.shields.io/badge/org-UnseenConnect-0ea5e9?style=for-the-badge&logo=github)](https://github.com/UnseenConnect)
 [![VPN](https://img.shields.io/badge/фокус-Xray%20VPN-9F7AEA?style=for-the-badge)](https://github.com/UnseenConnect)
 [![Bedrock](https://img.shields.io/badge/Bedrock-PMMP%205.x-f78166?style=for-the-badge)](https://github.com/norachcharon)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=600&color=58A6FF&center=true&vCenter=true&width=880&lines=Norach+Charon;UnseenConnect+%C2%B7+Xray+%C2%B7+Android%2FWindows%2FLinux;Minecraft+Bedrock+%C2%B7+PMMP+5;Vue+%C2%B7+Unity+%C2%B7+Three.js" alt="Intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=600&color=58A6FF&center=true&vCenter=true&width=900&lines=Norach+Charon+%C2%B7+Fullstack;сайты+%C2%B7+Symfony+%2B+Vue%2FReact+%2B+TypeScript;UnseenConnect+%C2%B7+Xray+%C2%B7+Bedrock+PMMP+5;Unity+%C2%B7+Three.js" alt="Intro" />
 
 </div>
 
@@ -19,13 +20,22 @@
 
 ## О себе
 
-Разработчик **Norach Charon**. Основной публичный фокус — экосистема **[UnseenConnect](https://github.com/UnseenConnect)**: нативные VPN-клиенты под **Android**, **Windows** и **Linux** на ядре **Xray**.
+**Fullstack-разработчик Norach Charon.** Делаю **сайты и веб-сервисы целиком**: от API и БД до интерфейса в браузере.
 
-Параллельно пишу серверную логику и утилиты для подписок, панелей и эксплуатации нод.
+Публично на GitHub — экосистема **[UnseenConnect](https://github.com/UnseenConnect)** (VPN-клиенты **Android** / **Windows** / **Linux** на **Xray**). Остальное — VPN-инфра, **Bedrock PMMP5**, игры — в основном в private-репозиториях.
 
-Активно разрабатываю под **Minecraft: Bedrock** и **PocketMine-MP 5.x (PMMP5)**: игровые плагины, серверную логику и доработки **ядра** (протокол, производительность, игровые API).
+## Fullstack · сайты
 
-Отдельно делаю **веб** на **Vue** и **игры**: **Unity** (3D / геймплей) и **Three.js** (браузерные 3D-сцены, idle и city-sim). Эта часть в основном в приватных репозиториях; в открытом доступе сейчас — клиенты **UnseenConnect**.
+| Слой | Технологии | Задачи |
+| --- | --- | --- |
+| **Backend** | **Symfony**, **PHP**, Doctrine, Messenger | REST/JSON API, авторизация, админки, интеграции, очереди |
+| **Frontend** | **Vue** или **React** + **TypeScript** | SPA, панели, личные кабинеты, формы, real-time UI |
+| **Данные** | **PostgreSQL**, **Redis** | Миграции, кэш, сессии, фоновые job |
+| **Деплой** | **Nginx**, **Docker**, Linux | CI/CD, staging/prod, мониторинг |
+
+Пишу **сайты под ключ**: Symfony на сервере, Vue или React с TypeScript на клиенте — единый стек без разрыва между фронтом и бэком.
+
+Также веду **Minecraft Bedrock (PMMP 5.x)** — плагины и доработки **ядра PocketMine-MP**; отдельно — **Unity** и **Three.js** (браузерные и desktop-игры).
 
 <img src="assets/pillars.png" alt="Направления" width="100%" />
 
@@ -42,9 +52,9 @@
 Поддержка VLESS (Reality), VMess, Trojan.
 </td>
 <td valign="top">
-Сервисы на <b>Symfony</b> и <b>PHP</b>,<br/>
-Telegram-боты и скрипты на <b>Python</b>,<br/>
-REST API, очереди, интеграции с панелями.
+<b>Symfony</b> + <b>PHP</b>: REST API, сайты,<br/>
+Doctrine, очереди, интеграции;<br/>
+Telegram-боты и скрипты на <b>Python</b>.
 </td>
 <td valign="top">
 <b>Docker</b>, <b>Nginx</b>, <b>PostgreSQL</b>, <b>Redis</b>,<br/>
@@ -64,11 +74,10 @@ bash-автоматизация, Debian/Ubuntu,<br/>
 
 > PMMP5 и плагины — в private; публично на профиле закреплены VPN-клиенты UnseenConnect.
 
-## Веб и игры
+## Игры
 
 | Стек | Что делаю |
 | --- | --- |
-| **Vue** | SPA, панели, админки и фронт к бэкенду на Symfony |
 | **Unity** | Игровые прототипы и релизы, low-poly, геймплей и UI |
 | **Three.js** | WebGL в браузере, 3D-сцены, idle / city-sim и интерактив |
 
@@ -106,9 +115,9 @@ bash-автоматизация, Debian/Ubuntu,<br/>
 
 <br/>
 
-**Веб и игры**
+**Fullstack и игры**
 
-<img src="https://skillicons.dev/icons?i=vue,js,ts,react,unity,cs&perline=6" alt="Web and games" />
+<img src="https://skillicons.dev/icons?i=vue,js,ts,react,unity,cs&perline=6" alt="Frontend and games" />
 
 <br/>
 
