@@ -22,7 +22,3 @@ PHP · PocketMine / Bedrock · Telegram bots · Symfony · Vue / Three.js · Doc
 ### Контакты
 
 GitHub: [@norachcharon](https://github.com/norachcharon)
-
----
-
-<sub>Закрепи на профиле: **rubyx-pm/PocketMine-MP**, **rubyx-pm/website**, при желании — приватные репозитории под своим аккаунтом.</sub>
