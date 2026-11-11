@@ -10,13 +10,7 @@
 [![VPN](https://img.shields.io/badge/фокус-Xray%20VPN-9F7AEA?style=for-the-badge)](https://github.com/UnseenConnect)
 [![Bedrock](https://img.shields.io/badge/Bedrock-PMMP%205.x-f78166?style=for-the-badge)](https://github.com/norachcharon)
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=600&color=58A6FF&center=true&vCenter=true&width=900&lines=Norach+Charon+%C2%B7+Fullstack;сайты+%C2%B7+Symfony+%2B+Vue%2FReact+%2B+TypeScript;UnseenConnect+%C2%B7+Xray+%C2%B7+Bedrock+PMMP+5;Unity+%C2%B7+Three.js" alt="Intro" />
-
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:302b63&height=80&section=header&text=&fontSize=0&animation=fadeIn" width="100%" />
 
 ## О себе
 
