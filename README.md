@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=600&color=58A6FF&center=true&vCenter=true&width=860&lines=Norach+Charon;UnseenConnect+%C2%B7+Xray+%C2%B7+Android%2FWindows%2FLinux;Minecraft+Bedrock+%C2%B7+PMMP+5;плагины+и+серверные+ядра+на+PHP" alt="Intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=600&color=58A6FF&center=true&vCenter=true&width=880&lines=Norach+Charon;UnseenConnect+%C2%B7+Xray+%C2%B7+Android%2FWindows%2FLinux;Minecraft+Bedrock+%C2%B7+PMMP+5;Vue+%C2%B7+Unity+%C2%B7+Three.js" alt="Intro" />
 
 </div>
 
@@ -23,7 +23,9 @@
 
 Параллельно пишу серверную логику и утилиты для подписок, панелей и эксплуатации нод.
 
-Активно разрабатываю под **Minecraft: Bedrock** и **PocketMine-MP 5.x (PMMP5)**: игровые плагины, серверную логику и доработки **ядра** (протокол, производительность, игровые API). Эта часть в основном в приватных репозиториях; в открытом доступе сейчас — клиенты **UnseenConnect**.
+Активно разрабатываю под **Minecraft: Bedrock** и **PocketMine-MP 5.x (PMMP5)**: игровые плагины, серверную логику и доработки **ядра** (протокол, производительность, игровые API).
+
+Отдельно делаю **веб** на **Vue** и **игры**: **Unity** (3D / геймплей) и **Three.js** (браузерные 3D-сцены, idle и city-sim). Эта часть в основном в приватных репозиториях; в открытом доступе сейчас — клиенты **UnseenConnect**.
 
 <img src="assets/pillars.png" alt="Направления" width="100%" />
 
@@ -62,6 +64,14 @@ bash-автоматизация, Debian/Ubuntu,<br/>
 
 > PMMP5 и плагины — в private; публично на профиле закреплены VPN-клиенты UnseenConnect.
 
+## Веб и игры
+
+| Стек | Что делаю |
+| --- | --- |
+| **Vue** | SPA, панели, админки и фронт к бэкенду на Symfony |
+| **Unity** | Игровые прототипы и релизы, low-poly, геймплей и UI |
+| **Three.js** | WebGL в браузере, 3D-сцены, idle / city-sim и интерактив |
+
 ## Публичные репозитории
 
 | Платформа | Репозиторий | Кратко |
@@ -90,15 +100,25 @@ bash-автоматизация, Debian/Ubuntu,<br/>
 
 <div align="center">
 
-**Языки и фреймворки**
+**Backend и мобильные клиенты**
 
-<img src="https://skillicons.dev/icons?i=php,symfony,python,js,ts,react,kotlin,androidstudio,docker,cs&perline=10" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=php,symfony,python,kotlin,androidstudio,docker&perline=6" alt="Backend" />
+
+<br/>
+
+**Веб и игры**
+
+<img src="https://skillicons.dev/icons?i=vue,js,ts,react,unity,cs&perline=6" alt="Web and games" />
 
 <br/>
 
 **Серверы и инструменты**
 
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,nginx,postgres,redis,git,github&perline=9" alt="Tools" />
+
+<br/>
+
+<sub>Three.js — в стеке веб-3D (иконки skillicons отдельно не даёт)</sub>
 
 </div>
 
