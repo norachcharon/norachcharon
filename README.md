@@ -16,6 +16,14 @@
   Открытые репозитории — только у <a href="https://github.com/UnseenConnect">UnseenConnect</a>.
 </p>
 
+### Stack
+
+<img src="https://skillicons.dev/icons?i=php,symfony,python,js,ts,react,kotlin,androidstudio,docker&perline=8" alt="Languages" />
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,nginx,postgres,redis,git,github&perline=9" alt="Tools" />
+
+<br/>
+
 <a href="https://github.com/UnseenConnect/unseenconnect-android">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=UnseenConnect&repo=unseenconnect-android&theme=transparent&bg_color=0d1117&title_color=9F7AEA&icon_color=58A6FF&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="unseenconnect-android" />
 </a>
