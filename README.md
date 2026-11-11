@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=9F7AEA&center=true&vCenter=true&width=780&lines=Mobile+%26+Desktop+%C2%B7+Flutter+%C2%B7+Kotlin+%C2%B7+PHP;Privacy+%26+VPN+%C2%B7+Xray+%C2%B7+3x-ui+tooling;Symfony+%C2%B7+Python+bots+%C2%B7+Linux+ops;Bedrock+%C2%B7+PocketMine+%C2%B7+mcbehost.ru" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=800&color=9F7AEA&center=true&vCenter=true&width=860&lines=UnseenConnect+%C2%B7+Android+%C2%B7+Windows+%C2%B7+Linux;VPN-бот+%C2%B7+агрегатор+подписок+%C2%B7+UnseenStats;PHP+%C2%B7+Python+%C2%B7+Symfony+%C2%B7+Docker;Хостинг+MCBE+%C2%B7+mcbehost.ru" alt="Typing intro" />
 
 </div>
 
@@ -20,32 +20,26 @@
 
 ## About
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│  Cross-platform clients (Flutter)                           │
-│  VPN stack: UnseenConnect, panels, bootstrap & hardening      │
-│  Backends: Symfony, Python, PostgreSQL, Redis, Docker       │
-│  Game hosting: mcbehost.ru · Bedrock                          │
-└─────────────────────────────────────────────────────────────┘
-```
+Клиенты **UnseenConnect** на ядре **Xray** для Android, Windows и Linux. Вокруг них — Telegram-бот Unseen VPN, агрегатор подписок и **UnseenStats** (мониторинг и эксплуатация нод). Отдельно: панель и сайт хостинга **MCBE** ([mcbehost.ru](https://mcbehost.ru)), мини-игра DbD для PocketMine и финансовая статистика на Symfony.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Currently into**
+**Сейчас**
 
-- Flutter on **Android, iOS, Windows, macOS, Linux**
-- **Xray**-based clients & automation around **3x-ui**
-- **Symfony / PHP** services, Telegram bots, observability
+- **UnseenConnect** — Android, Windows, Linux
+- **unseenvpnbot**, агрегатор подписок, **UnseenStats**
+- **mcbehost.ru**, плагин **DbDGame**, **financestats**
 
 </td>
 <td width="50%" valign="top">
 
-**Links**
+**Стек**
 
-- [mcbehost.ru](https://mcbehost.ru) — MCBE hosting
-- [UnseenConnect](https://github.com/UnseenConnect) — org
+- **PHP**, **Symfony**, **Python**
+- **PostgreSQL**, **Redis**, **Docker**, **Nginx**
+- Linux-серверы, панели 3x-ui, подписки
 
 </td>
 </tr>
@@ -57,19 +51,22 @@
 
 | | |
 |:---:|:---|
-| **UnseenConnect** | Xray client — subscriptions, TUN, Reality / VMess / Trojan |
-| **3x-ui-hwid** | HWID device limits on top of 3x-ui |
-| **bootstrap-xui** | One-shot 3x-ui server bootstrap |
-| **harden-server** | Debian/Ubuntu hardening (ephemeral credentials) |
+| [**unseenconnect-android**](https://github.com/UnseenConnect/unseenconnect-android) | Клиент UnseenConnect для Android (Xray) |
+| [**unseenconnect-desktop**](https://github.com/UnseenConnect/unseenconnect-desktop) | Клиент для Windows |
+| [**unseenconnect-linux**](https://github.com/UnseenConnect/unseenconnect-linux) | Клиент для Linux |
+| **unseenvpnbot** | Telegram-бот Unseen VPN |
+| **subs_aggregator** | Агрегатор подписок |
+| **unseenstats** | Мониторинг и эксплуатация VPN-нод |
+| [**mcbehost.ru**](https://mcbehost.ru) | Панель и сайт хостинга MCBE |
 
 </div>
 
 <div align="center">
-  <a href="https://github.com/UnseenConnect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=norachcharon&repo=unseenstats&theme=transparent&bg_color=0d1117&title_color=9F7AEA&icon_color=58A6FF&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="unseenstats" />
+  <a href="https://github.com/UnseenConnect/unseenconnect-android">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UnseenConnect&repo=unseenconnect-android&theme=transparent&bg_color=0d1117&title_color=9F7AEA&icon_color=58A6FF&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="unseenconnect-android" />
   </a>
-  <a href="https://github.com/norachcharon/unseenvpnbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=norachcharon&repo=unseenvpnbot&theme=transparent&bg_color=0d1117&title_color=9F7AEA&icon_color=58A6FF&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="unseenvpnbot" />
+  <a href="https://github.com/UnseenConnect/unseenconnect-linux">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UnseenConnect&repo=unseenconnect-linux&theme=transparent&bg_color=0d1117&title_color=9F7AEA&icon_color=58A6FF&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="unseenconnect-linux" />
   </a>
 </div>
 
@@ -77,8 +74,8 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,python,php,symfony,js,ts,react,go,docker&perline=12" alt="Languages" />
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,nginx,postgres,mysql,redis,git,github,unity&perline=11" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=php,symfony,python,js,ts,react,docker,linux&perline=8" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=nginx,postgres,redis,bash,ubuntu,debian,git,github&perline=8" alt="Tools" />
 
 </div>
 
