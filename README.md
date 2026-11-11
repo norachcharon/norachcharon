@@ -6,7 +6,6 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=norachcharon&color=6e40c9&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/norachcharon)
 [![GitHub User](https://img.shields.io/badge/GitHub-norachcharon-181717?style=for-the-badge&logo=github)](https://github.com/norachcharon)
-[![Org rubyx-pm](https://img.shields.io/badge/rubyx--pm-PocketMine--MP-6e40c9?style=for-the-badge)](https://github.com/rubyx-pm)
 [![Org UnseenConnect](https://img.shields.io/badge/UnseenConnect-VPN_Client-0ea5e9?style=for-the-badge&logo=protonvpn)](https://github.com/UnseenConnect)
 
 <br/>
@@ -26,7 +25,7 @@
 │  Cross-platform clients (Flutter)                           │
 │  VPN stack: UnseenConnect, panels, bootstrap & hardening      │
 │  Backends: Symfony, Python, PostgreSQL, Redis, Docker       │
-│  Game hosting: mcbehost.ru · Bedrock / Rubyx PocketMine-MP    │
+│  Game hosting: mcbehost.ru · Bedrock                          │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -46,7 +45,6 @@
 **Links**
 
 - [mcbehost.ru](https://mcbehost.ru) — MCBE hosting
-- [rubyx-pm docs](https://rubyx-pm.github.io/website/docs/) — Bedrock core docs
 - [UnseenConnect](https://github.com/UnseenConnect) — org
 
 </td>
