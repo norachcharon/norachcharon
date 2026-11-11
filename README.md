@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.jpg" alt="Norach Charon · Fullstack Developer" width="100%" />
+<img src="https://raw.githubusercontent.com/norachcharon/norachcharon/main/assets/hero-banner.jpg" alt="Norach Charon · Fullstack Developer" width="100%" />
 
 <br/>
 
